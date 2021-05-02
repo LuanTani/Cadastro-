@@ -1,0 +1,13 @@
+#endereço{
+    box-sizing: border-box;
+    border-width: 2px; border-style: solid; border-color: black; margin: 5px 10px;
+}
+
+body{
+    background-image: linear-gradient(to right, rgb(206, 120, 194) 40%, rgba(70, 4, 114, 0.918) 100%);
+    font-weight: bold;
+}
+
+label, select, legend, button{
+    color: rgb(6, 1, 15);
+}
